@@ -1,7 +1,7 @@
 # Nathan Bollaert ~ Tenim 👾
  - [x] Full-time brain updater 📖
- - [x] 100% Web install wizard 👨‍💻
- - [x] Making noise 🥁
+ - [x] Web install wizard 👨‍💻
+ - [x] Noise maker 🥁
  - [x] Imposter 🔪
- - [ ] Get rich 💸
+ - [ ] Rich 💸
  - [ ] ~~PHP user 🧟‍♂️~~
