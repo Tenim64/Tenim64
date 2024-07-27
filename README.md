@@ -2,6 +2,6 @@
  - [x] Full-time brain updater 📖
  - [x] Web install wizard 👨‍💻
  - [x] Noise maker 🥁
- - [x] Imposter 🔪
+ - [x] Button masher 🎮
  - [ ] Rich 💸
  - [ ] ~~PHP user 🧟‍♂️~~
