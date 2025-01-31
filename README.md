@@ -13,4 +13,4 @@ What <ins>don't</ins> I do?
  - [ ] Understand quantom computers 🧠
 
 
-[nathanbollaert.be/README.md](https://nathanbollaert.be/README.md)
+[nathanbollaert.be/readme.md](https://nathanbollaert.be/readme.md)
