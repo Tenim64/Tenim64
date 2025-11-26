@@ -1,5 +1,6 @@
 # Nathan Bollaert ~ Tenim 👾
 
+**Team lead & Web developer @ [tegoei.dev](https://tegoei.dev)**
 
 What <ins>do</ins> I do?
  - [x] Study computer science 📖
@@ -11,6 +12,3 @@ What <ins>don't</ins> I do?
  - [ ] Hack your Instagram ☠️
  - [ ] Fix your iPhone 🪛
  - [ ] Understand quantom computers 🧠
-
-
-[nathanbollaert.be/readme.md](https://nathanbollaert.be/readme.md)
