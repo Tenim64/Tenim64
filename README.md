@@ -11,4 +11,4 @@ What <ins>do</ins> I do?
 What <ins>don't</ins> I do?
  - [ ] Hack your Instagram ☠️
  - [ ] Fix your iPhone 🪛
- - [ ] Understand quantom computers 🧠
+ - [ ] Understand quantum computers 🧠
